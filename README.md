@@ -7,3 +7,6 @@ Implementation of median filter algorithms
 
 ## Task 3
 Implementation of Fast Hough Transform
+
+## Task 4
+Data augmentation/rendering task
