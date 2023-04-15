@@ -10,3 +10,6 @@ Implementation of Fast Hough Transform
 
 ## Task 4
 Data augmentation/rendering task
+
+## Task 5
+Repeatability of singular point detectors
